@@ -1,0 +1,12 @@
+.separete{
+    background-color: lightblue;
+    margin: 12px;
+    border-radius: 12px;
+
+}
+.separete img{
+    width: 150px;
+    height: 150px;
+    border-radius:50% ;
+    margin: 12px;
+}
